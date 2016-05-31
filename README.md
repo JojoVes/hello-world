@@ -7,3 +7,4 @@ Time to experiment with the command line!<br/>
 Doot doot.<br/>
 Let's see if teh ssh wrx? Who needs to english...?<br/>
 Now to change things on GitHub and fetch them with the terminal!<br/>
+Hey! It worked!
